@@ -13,8 +13,8 @@ public:
             string key="";
 
             for(int i=0;i<26;i++){
-                key+="#";
-                key+=to_string(count[i]);
+                key+="#" + to_string(count[i]); // #1#0#0#0#1....
+                
             }
             map[key].push_back(s); // jun key cha teseima s lai pushback garde kina bhane key same huncha
 
