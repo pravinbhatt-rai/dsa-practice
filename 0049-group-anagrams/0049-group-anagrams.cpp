@@ -6,16 +6,8 @@ public:
         for(string s:strs){
             int count[26]={0};
 
-            for(char c: s){
-                count[c-'a']++;
-            }
-
-            string key="";
-
-            for(int i=0;i<26;i++){
-                key+="#" + to_string(count[i]); // #1#0#0#0#1....
-                
-            }
+          string key=s; 
+          sort(key.begin(),key.end()) ;// abs and asb after soring asb become abc
             map[key].push_back(s); // jun key cha teseima s lai pushback garde kina bhane key same huncha
 
         }
