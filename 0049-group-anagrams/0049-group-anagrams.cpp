@@ -16,7 +16,7 @@ public:
                 key+="#";
                 key+=to_string(count[i]);
             }
-            map[key].push_back(s);
+            map[key].push_back(s); // jun key cha teseima s lai pushback garde kina bhane key same huncha
 
         }
 
