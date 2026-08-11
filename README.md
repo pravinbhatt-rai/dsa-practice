@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
