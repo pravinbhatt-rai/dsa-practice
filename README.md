@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
@@ -121,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
