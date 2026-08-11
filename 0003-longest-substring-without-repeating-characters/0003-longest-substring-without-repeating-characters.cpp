@@ -7,24 +7,19 @@ public:
         }
 
         int left=0;
-        int right=0;
+
         int ans=0;
 
-        unordered_set<char> st;
+        vector<int> lastseen(128,-1);
 
-while(right<n){
-    while(st.count(s[right])){
-        st.erase(s[left]);
-        left++;
+for(int right=0;right<n;right++){
+    char c=s[right];
+    if(lastseen[c]>=left){
+        left=lastseen[c]+1; // notunderstanding the behaviour need to see again
     }
 
-    st.insert(s[right]);
+    lastseen[c]=right;
     ans=max(ans,right-left+1);
-
-
-
-
-    right++;
 }
 return ans;
 
