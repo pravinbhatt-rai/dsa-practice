@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
@@ -105,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
