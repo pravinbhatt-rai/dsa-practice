@@ -24,19 +24,20 @@ bool matches(vector<int>m1,vector<int> m2){
 
             s2Map[s2[i] - 'a']++;
         }
+        
 
-        for(int i=0;i<s2.length()-s1.length();i++){
+        for(int i=s1.length();i<s2.length();i++){
            if( matches(s1Map,s2Map)){
            return true;
            }
 
-            int r=i+s1.length();
+            int l=i-s1.length();
 
-            s2Map[s2[r] - 'a']++;
+            s2Map[s2[i] - 'a']++;
 
-            s2Map[s2[i] - 'a']--;
+            s2Map[s2[l] - 'a']--;
         }
 
-        return matches(s1Map,s2Map);
+        return matches(s1Map,s2Map); // takes mre time
     }
 };
