@@ -2,37 +2,33 @@ class Solution {
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        stack<char> st;
+        string st;
 
         function<void(int,int)>solve =[&](int open, int close){
             if(open==n&& close==n){ //matlab auta valid wala parenthesis milo , first tyo stack lai hailai string ma convert harnuparchs,
-            string s;
-            stack<char> temp=st;
+            
 
-            while(!temp.empty()){
-                s+=temp.top();
-                temp.pop();
-            }
+           
 
-            reverse(s.begin(),s.end());// lifo follow garcha tei bhayera hamile reverse gareko
+           
 
 
-            ans.push_back(s);
+            ans.push_back(st);
             return;
 
             }
 
 
             if(open<n){
-                    st.push('(');
+                    st.push_back('(');
 
                     solve(open+1,close);
-                    st.pop();
+                    st.pop_back();
             }
             if(close<open){
-                st.push(')');
+                st.push_back(')');
                     solve(open,close+1);
-                st.pop();
+                st.pop_back();
             }
         };
 
