@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -151,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
