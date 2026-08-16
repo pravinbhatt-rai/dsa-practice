@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
@@ -229,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
