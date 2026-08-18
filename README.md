@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0143-reorder-list/) | Medium |
@@ -255,4 +258,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
