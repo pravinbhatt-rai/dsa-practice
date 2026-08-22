@@ -7,45 +7,26 @@ class Solution {
         }
 
 
-        PriorityQueue<Integer>maxheap=new PriorityQueue(Collections.reverseOrder());
+       int maxfreq=0;
 
-        for(int num:freq){
-            if(num>0){
-                maxheap.offer(num);
-            }
+       for(int f:freq){
+        maxfreq=Math.max(maxfreq,f);
+       }
+
+
+       int countfreq=0;
+
+       for(int c:freq){
+        if(maxfreq==c){
+            countfreq++;
         }
 
-        int time=0;
+       }
+
+       int ans=(maxfreq-1)*(n+1)+countfreq;
 
 
-        while(!maxheap.isEmpty()){
-        List<Integer> temp=new ArrayList();
-
-            for(int i=0;i<=n;i++){
-                if(!maxheap.isEmpty()){
-                    int count=maxheap.poll();
-
-                    count--;
-
-                    if(count>0){    // ekbar task lai execute garo ani agar value lai temo mah store garo feri
-                        temp.add(count);
-                    }}
-
-                time++;
-
-                if(maxheap.isEmpty()&& temp.isEmpty()){
-                    break;  // jaba kei task nei hunna bhan break gardeh
-                }
-            }
-
-            for(int count:temp){
-                maxheap.offer(count);  // feri tyo count lai heap mah haldeh futrter koh lagi
-            }
-        }
-
-        return time;
-
-
+       return Math.max(ans,tasks.length);
         
     }
 }
