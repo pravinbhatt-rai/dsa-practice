@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1046-last-stone-weight/) | Easy |
@@ -111,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
