@@ -399,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
