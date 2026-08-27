@@ -2,13 +2,7 @@
 
 SELECT
     ROUND(
-        AVG(
-            IF(
-                event_date = DATE_ADD(first_login.first_date, INTERVAL 1 DAY),
-                1,
-                0
-            )
-        ),
+        COUNT(a.player_id) / COUNT(*),
         2
     ) AS fraction
 FROM (
@@ -17,6 +11,6 @@ FROM (
     FROM Activity
     GROUP BY player_id
 ) AS first_login
-LEFT JOIN Activity
-ON Activity.player_id = first_login.player_id
-AND Activity.event_date = DATE_ADD(first_login.first_date, INTERVAL 1 DAY);
+LEFT JOIN Activity a
+ON a.player_id = first_login.player_id
+AND a.event_date = DATE_ADD(first_login.first_date, INTERVAL 1 DAY);
