@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1075-project-employees-i/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1251-average-selling-price/) | Easy |
