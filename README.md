@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
