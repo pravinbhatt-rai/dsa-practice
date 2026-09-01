@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
