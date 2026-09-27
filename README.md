@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0704-binary-search/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Design
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -457,4 +461,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1729-find-followers-count](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1934-confirmation-rate/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
