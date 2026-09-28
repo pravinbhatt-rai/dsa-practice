@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -472,4 +474,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
