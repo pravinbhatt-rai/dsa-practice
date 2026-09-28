@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 ## Queue
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0860-lemonade-change/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
