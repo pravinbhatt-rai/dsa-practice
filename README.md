@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0063-unique-paths-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0079-word-search/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
+| [0063-unique-paths-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0079-word-search/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
