@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0062-unique-paths/) | Medium |
@@ -516,4 +519,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
