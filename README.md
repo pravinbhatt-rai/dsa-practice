@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0078-subsets/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
