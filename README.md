@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
