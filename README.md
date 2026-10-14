@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0860-lemonade-change/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
