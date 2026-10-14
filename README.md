@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Divide and Conquer
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0860-lemonade-change/) | Easy |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -542,4 +546,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 <!---LeetCode Topics End-->
