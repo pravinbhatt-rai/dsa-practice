@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0079-word-search/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
