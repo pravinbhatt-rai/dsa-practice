@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0118-pascals-triangle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
