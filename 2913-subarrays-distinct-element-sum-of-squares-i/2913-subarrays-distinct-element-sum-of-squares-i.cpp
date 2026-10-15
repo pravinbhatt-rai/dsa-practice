@@ -6,14 +6,14 @@ public:
         int n=nums.size();
 
         for(int i=0;i<n;i++){
-            unordered_set<int>set;
-            set.reserve(n-i);
+            set<int>st;
+
 
             for(int j=i;j<n;j++){
-                set.insert(nums[j]);
+                st.insert(nums[j]);
 
             
-            int distinct=set.size();
+            int distinct=st.size();
 
             ans+=distinct*distinct;
             }
