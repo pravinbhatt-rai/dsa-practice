@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
 ## Monotonic Stack
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Backtracking
@@ -459,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -524,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,10 +584,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -606,4 +616,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
