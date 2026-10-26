@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -513,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
