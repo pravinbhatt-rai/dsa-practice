@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
