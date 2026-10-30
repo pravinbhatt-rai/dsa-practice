@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2409-count-days-spent-together](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -651,4 +653,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
