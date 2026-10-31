@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2409-count-days-spent-together](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2606-find-the-substring-with-maximum-cost/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1896-minimum-cost-to-change-the-final-value-of-expression/) | Hard |
 | [2409-count-days-spent-together](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2409-count-days-spent-together/) | Easy |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Backtracking
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -664,4 +668,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 <!---LeetCode Topics End-->
