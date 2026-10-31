@@ -1,47 +1,26 @@
+constexpr int mod = 1e9 + 7;
+int row[500];
+
 class Solution {
 public:
     int uniquePaths(vector<vector<int>>& grid) {
-        const int MOD = 1e9 + 7;
+        int N = grid.size();
+        int M = grid[0].size();
 
-        int m = grid.size();
-        int n = grid[0].size();
+        memset(row, 0, M * sizeof(int));
+        row[0] = 1;
 
-        vector<vector<vector<int>>> dp(
-            m, vector<vector<int>>(n, vector<int>(2, 0))
-        );
-
-        dp[0][0][0] = 1;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                long long right = dp[i][j][0];
-                long long down = dp[i][j][1];
-
-                if (grid[i][j] == 0) {
-                    long long ways = (right + down) % MOD;
-
-                    if (j + 1 < n)
-                        dp[i][j + 1][0] =
-                            (dp[i][j + 1][0] + ways) % MOD;
-
-                    if (i + 1 < m)
-                        dp[i + 1][j][1] =
-                            (dp[i + 1][j][1] + ways) % MOD;
-                }
+        for (const auto& r : grid) {
+            for (int i = 0, prv = 0; i < M; ++i) {
+                if (r[i]) {
+                    swap(prv, row[i]);
+                } 
                 else {
-                    if (i + 1 < m)
-                        dp[i + 1][j][1] =
-                            (dp[i + 1][j][1] + right) % MOD;
-
-                    if (j + 1 < n)
-                        dp[i][j + 1][0] =
-                            (dp[i][j + 1][0] + down) % MOD;
+                    row[i] = prv = (prv + row[i]) % mod;
                 }
             }
         }
 
-        return (dp[m - 1][n - 1][0] +
-                dp[m - 1][n - 1][1]) % MOD;
+        return row[M - 1];
     }
 };
