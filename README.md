@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -530,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -667,10 +671,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
