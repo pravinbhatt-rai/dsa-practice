@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0704-binary-search/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
