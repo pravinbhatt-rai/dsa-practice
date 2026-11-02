@@ -5,7 +5,8 @@ public:
 
     //  sort them in n time complexity;
 
-    nth_element(nums.begin(),nums.begin()+n/2,nums.end());
+    // nth_element(nums.begin(),nums.begin()+n/2,nums.end());
+    sort(nums.begin(),nums.end());
 
     int median=nums[n/2];
 
