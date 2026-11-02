@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0739-daily-temperatures/) | Medium |
+| [0846-hand-of-straights](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -320,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0860-lemonade-change/) | Easy |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
