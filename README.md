@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3668-restore-finishing-order](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3668-restore-finishing-order/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
