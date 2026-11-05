@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1713-minimum-operations-to-make-a-subsequence/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravinbhatt-rai/dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
